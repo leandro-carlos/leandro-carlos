@@ -22,4 +22,4 @@
   
 ## 
 
-Olá! Como você tá? Me chamo Leandro, tenho 22 anos e atualmente atuo como desenvolvedor React Native, mas quer saber um pouco mais de mim?
+Olá! Como você tá? Me chamo Leandro, tenho 24 anos e atualmente atuo como desenvolvedor React Native, mas quer saber um pouco mais de mim?
